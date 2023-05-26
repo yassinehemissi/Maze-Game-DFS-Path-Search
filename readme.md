@@ -1,5 +1,5 @@
 # Introduction
-This project was built for a requested project in our AI Subject classes to build a maze with DFS as a path finding algorithm from the starting point of the game to the end
+This project was developed for our AI Subject classes, where we were tasked with constructing a maze and implementing a path-finding algorithm using Depth-First Search (DFS). The objective was to navigate from the starting point of the game to reach the end of the maze.
 
 
 # Technologies 
